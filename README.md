@@ -14,6 +14,7 @@ The repository is organized into the following main categories:
       * **algorithms:** Explores algorithms for sorting, searching, and graph problems.
       * **clean\_coding:** Discusses principles and best practices for writing clean, readable, and maintainable code.
   * **architecture\_techniques:**
+      * **clean\_architecture:** Explores the principles of clean architecture and how to apply them in software development.
       * **microservices\_architecture:** Discusses microservices architecture, its benefits, and challenges.
       * **serverless\_architecture:** Explains serverless architecture and its use cases.
       * **cloud\_native\_architecture:** Covers cloud-native principles and technologies.
