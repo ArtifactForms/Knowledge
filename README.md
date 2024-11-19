@@ -12,6 +12,7 @@ The repository is organized into the following main categories:
       * **design\_patterns:** Contains information on design patterns like creational, structural, and behavioral patterns.
       * **data\_structures:** Covers fundamental data structures such as arrays, linked lists, and trees.
       * **algorithms:** Explores algorithms for sorting, searching, and graph problems.
+      * **clean\_coding:** Discusses principles and best practices for writing clean, readable, and maintainable code.
   * **architecture\_techniques:**
       * **microservices\_architecture:** Discusses microservices architecture, its benefits, and challenges.
       * **serverless\_architecture:** Explains serverless architecture and its use cases.
